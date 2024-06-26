@@ -1,0 +1,6 @@
+python-dotenv
+urllib3
+pyjwt
+pymongo
+influxdb-client
+flask
